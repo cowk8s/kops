@@ -1,0 +1,16 @@
+site_name: kOps - kubernetes Operations
+# strict: true
+repo_name: 'kubernetes/kops'
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  icon:
+    logo: 'material/cloud-outline'
+  favicon: 'img/logo-notext.svg'
+
+nav:
+  - Welcome:
+    - Welcome: "index.md"
+    - Releases & Versioning: "welcome/releases.md"
